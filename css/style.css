@@ -1,0 +1,18 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+.container {
+    display: flex;
+}
+    
+.wiersz {
+    margin:0 auto ;
+       text-align: left;
+}
+h4 {
+    font-style:italic;
+}
+span {
+    font-style: italic;
+
+}
